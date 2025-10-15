@@ -1,0 +1,7 @@
+{
+  "name": "Moodify",
+  "description": "A sleek Spotify-themed app that analyzes facial expressions to recommend personalized song playlists based on your current mood and preferred language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
